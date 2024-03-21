@@ -1,0 +1,7 @@
+C:\Users\YAHYA\source\repos\VeriYapilariYAHYAAYKAN\VeriYapilariYAHYAAYKAN\obj\Debug\VeriYapilariYAHYAAYKAN.csproj.AssemblyReference.cache
+C:\Users\YAHYA\source\repos\VeriYapilariYAHYAAYKAN\VeriYapilariYAHYAAYKAN\obj\Debug\VeriYapilariYAHYAAYKAN.csproj.CoreCompileInputs.cache
+C:\Users\YAHYA\source\repos\VeriYapilariYAHYAAYKAN\VeriYapilariYAHYAAYKAN\bin\Debug\VeriYapilariYAHYAAYKAN.exe.config
+C:\Users\YAHYA\source\repos\VeriYapilariYAHYAAYKAN\VeriYapilariYAHYAAYKAN\bin\Debug\VeriYapilariYAHYAAYKAN.exe
+C:\Users\YAHYA\source\repos\VeriYapilariYAHYAAYKAN\VeriYapilariYAHYAAYKAN\bin\Debug\VeriYapilariYAHYAAYKAN.pdb
+C:\Users\YAHYA\source\repos\VeriYapilariYAHYAAYKAN\VeriYapilariYAHYAAYKAN\obj\Debug\VeriYapilariYAHYAAYKAN.exe
+C:\Users\YAHYA\source\repos\VeriYapilariYAHYAAYKAN\VeriYapilariYAHYAAYKAN\obj\Debug\VeriYapilariYAHYAAYKAN.pdb
