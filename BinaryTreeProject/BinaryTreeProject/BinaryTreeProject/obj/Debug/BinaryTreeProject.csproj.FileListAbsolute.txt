@@ -1,0 +1,8 @@
+C:\Users\Win10\source\repos\BinaryTreeProject\BinaryTreeProject\bin\Debug\BinaryTreeProject.exe.config
+C:\Users\Win10\source\repos\BinaryTreeProject\BinaryTreeProject\bin\Debug\BinaryTreeProject.exe
+C:\Users\Win10\source\repos\BinaryTreeProject\BinaryTreeProject\bin\Debug\BinaryTreeProject.pdb
+C:\Users\Win10\source\repos\BinaryTreeProject\BinaryTreeProject\obj\Debug\BinaryTreeProject.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\BinaryTreeProject\BinaryTreeProject\obj\Debug\BinaryTreeProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\source\repos\BinaryTreeProject\BinaryTreeProject\obj\Debug\BinaryTreeProject.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\BinaryTreeProject\BinaryTreeProject\obj\Debug\BinaryTreeProject.exe
+C:\Users\Win10\source\repos\BinaryTreeProject\BinaryTreeProject\obj\Debug\BinaryTreeProject.pdb
