@@ -1,0 +1,15 @@
+İki sayının çarpılması için en kazançlı algoritma, genellikle Karatsuba çarpma algoritması olarak bilinir. Bu algoritma, büyük sayıları daha küçük parçalara böler ve daha küçük parçaları kullanarak çarpma işlemini gerçekleştirir, bu da klasik çarpan algoritmasından daha hızlı bir şekilde sonuca ulaşmayı sağlar.
+
+Karatsuba çarpma algoritmasının basit bir uygulaması şu şekildedir:
+
+Çarpmak istediğimiz iki sayının basamak sayısını (n) belirleyelim.
+Eğer n tek sayı ise, sayıları aynı sayıda basamağa sahip iki sayı haline getirmek için her birini birer sıfır ile başlayarak tamamlayalım.
+Sayıları iki eşit parçaya bölelim. Örneğin, A'nın ilk n/2 basamağı ve ikinci n/2 basamağı, B'nin ilk n/2 basamağı ve ikinci n/2 basamağı.
+Ayrıca, Karatsuba çarpma algoritması için gereken 3 adet çarpma işlemi yapacağız:
+Z0 = ilk parçaların çarpımı
+Z1 = ikinci parçaların çarpımı
+Z2 = (A1 + A0) * (B1 + B0) - Z0 - Z1 (bu adımda çarpma işlemi yerine toplama işlemleri yapılır)
+Son adımda, sonuç şu şekilde hesaplanır: Z0 + (Z2 * 10^(n/2)) + (Z1 * 10^n)
+Bu adımları uyguladığımızda, çarpma işlemi için daha az sayıda çarpma işlemi gerçekleştirerek sonuca ulaşabiliriz. Ancak, bu algoritmanın uygulanması, çok büyük sayılarla çalışırken daha fazla avantaj sağlar.
+
+Bu yöntemi kullanarak, verilen A ve B değerleri için çarpımı hesaplayabiliriz. Ancak, bu algoritma genellikle programlama dillerinde kodlanarak gerçekleştirilir.

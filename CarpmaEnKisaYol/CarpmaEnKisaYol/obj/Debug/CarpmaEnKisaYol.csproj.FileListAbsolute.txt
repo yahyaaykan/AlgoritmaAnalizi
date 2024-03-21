@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\CarpmaEnKisaYol\CarpmaEnKisaYol\bin\Debug\CarpmaEnKisaYol.exe.config
+C:\Users\pc\source\repos\CarpmaEnKisaYol\CarpmaEnKisaYol\bin\Debug\CarpmaEnKisaYol.exe
+C:\Users\pc\source\repos\CarpmaEnKisaYol\CarpmaEnKisaYol\bin\Debug\CarpmaEnKisaYol.pdb
+C:\Users\pc\source\repos\CarpmaEnKisaYol\CarpmaEnKisaYol\obj\Debug\CarpmaEnKisaYol.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CarpmaEnKisaYol\CarpmaEnKisaYol\obj\Debug\CarpmaEnKisaYol.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CarpmaEnKisaYol\CarpmaEnKisaYol\obj\Debug\CarpmaEnKisaYol.exe
+C:\Users\pc\source\repos\CarpmaEnKisaYol\CarpmaEnKisaYol\obj\Debug\CarpmaEnKisaYol.pdb
