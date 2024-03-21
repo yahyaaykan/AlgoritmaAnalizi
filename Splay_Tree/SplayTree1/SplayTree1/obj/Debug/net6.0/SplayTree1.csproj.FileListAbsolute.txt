@@ -1,0 +1,14 @@
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\bin\Debug\net6.0\SplayTree1.exe
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\bin\Debug\net6.0\SplayTree1.deps.json
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\bin\Debug\net6.0\SplayTree1.runtimeconfig.json
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\bin\Debug\net6.0\SplayTree1.dll
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\bin\Debug\net6.0\ref\SplayTree1.dll
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\bin\Debug\net6.0\SplayTree1.pdb
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\obj\Debug\net6.0\SplayTree1.GeneratedMSBuildEditorConfig.editorconfig
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\obj\Debug\net6.0\SplayTree1.AssemblyInfoInputs.cache
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\obj\Debug\net6.0\SplayTree1.AssemblyInfo.cs
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\obj\Debug\net6.0\SplayTree1.csproj.CoreCompileInputs.cache
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\obj\Debug\net6.0\SplayTree1.dll
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\obj\Debug\net6.0\ref\SplayTree1.dll
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\obj\Debug\net6.0\SplayTree1.pdb
+F:\DS\2023-2024\siralamaAlgoritmalari\SplayTree1\SplayTree1\obj\Debug\net6.0\SplayTree1.genruntimeconfig.cache
