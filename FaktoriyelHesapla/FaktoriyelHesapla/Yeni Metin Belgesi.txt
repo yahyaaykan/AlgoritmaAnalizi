@@ -1,0 +1,49 @@
+fonksiyon faktoriyelHesapla(n) iteratif
+    eğer n negatifse
+        hata döndür "Negatif sayıların faktöriyeli hesaplanamaz."
+    değilse eğer n sıfıra eşitse
+        sonuç = 1
+    değilse
+        sonuç = 1
+        i = 1
+        sürekli i'den n'e kadar
+            sonuç = sonuç * i
+            i = i + 1
+    döndür sonuç
+
+
+
+
+
+
+fonksiyon faktoriyelHesapla(n) recursive
+    eğer n negatifse
+        hata döndür "Negatif sayıların faktöriyeli hesaplanamaz."
+    eğer n sıfıra eşitse veya n bir olduğunda
+        döndür 1
+    değilse
+        döndür n * faktoriyelHesapla(n - 1)
+
+
+
+
+
+
+Algoritmanın Analizi 
+1. Özyinelemeli Algoritma:
+	 Özyinelemeli algoritma, her adımda bir alt problemi çözer ve bu alt problemler 
+birbirine bağlıdır. Bu algoritmanın karmaşıklığı O(n) olarak ifade edilir, burada n, 
+dizinin eleman sayısıdır.
+	 Özyinelemeli algoritma, her bir özyinelemeli çağrı için bir işlem yığını (call stack) 
+kullanır. Bu nedenle hafıza karmaşıklığı, özyinelemeli çağrıların derinliğine bağlıdır ve 
+genellikle O(n) olarak ifade edilir.
+2. İteratif Algoritma:
+	 İteratif algoritma, diziyi bir kez tarar ve en büyük sayıyı bulur. Bu nedenle zaman 
+karmaşıklığı O(n) olarak ifade edilir, burada n, dizinin eleman sayısıdır.
+	 İteratif algoritma, sabit miktarda hafıza kullanır (yalnızca birkaç değişken). Bu nedenle 
+hafıza karmaşıklığı O(1) olarak ifade edilir.
+Özetle:
+ 	Özyinelemeli algoritma daha fazla hafıza kullanır ve işlem yığınına bağımlıdır, ancak 
+kodu daha anlaşılır ve basit hale getirebilir.
+ 	İteratif algoritma daha az hafıza kullanır ve genellikle daha hızlıdır, ancak kod daha 
+karmaşık görünebilir

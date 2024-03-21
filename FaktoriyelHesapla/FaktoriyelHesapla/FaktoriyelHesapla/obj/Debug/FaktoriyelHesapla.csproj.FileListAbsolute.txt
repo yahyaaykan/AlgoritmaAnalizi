@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\FaktoriyelHesapla\FaktoriyelHesapla\bin\Debug\FaktoriyelHesapla.exe.config
+C:\Users\pc\source\repos\FaktoriyelHesapla\FaktoriyelHesapla\bin\Debug\FaktoriyelHesapla.exe
+C:\Users\pc\source\repos\FaktoriyelHesapla\FaktoriyelHesapla\bin\Debug\FaktoriyelHesapla.pdb
+C:\Users\pc\source\repos\FaktoriyelHesapla\FaktoriyelHesapla\obj\Debug\FaktoriyelHesapla.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\FaktoriyelHesapla\FaktoriyelHesapla\obj\Debug\FaktoriyelHesapla.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\FaktoriyelHesapla\FaktoriyelHesapla\obj\Debug\FaktoriyelHesapla.exe
+C:\Users\pc\source\repos\FaktoriyelHesapla\FaktoriyelHesapla\obj\Debug\FaktoriyelHesapla.pdb

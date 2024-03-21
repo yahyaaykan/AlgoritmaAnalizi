@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\FaktoriyelHesaplaRecursive\FaktoriyelHesaplaRecursive\bin\Debug\FaktoriyelHesaplaRecursive.exe.config
+C:\Users\pc\source\repos\FaktoriyelHesaplaRecursive\FaktoriyelHesaplaRecursive\bin\Debug\FaktoriyelHesaplaRecursive.exe
+C:\Users\pc\source\repos\FaktoriyelHesaplaRecursive\FaktoriyelHesaplaRecursive\bin\Debug\FaktoriyelHesaplaRecursive.pdb
+C:\Users\pc\source\repos\FaktoriyelHesaplaRecursive\FaktoriyelHesaplaRecursive\obj\Debug\FaktoriyelHesaplaRecursive.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\FaktoriyelHesaplaRecursive\FaktoriyelHesaplaRecursive\obj\Debug\FaktoriyelHesaplaRecursive.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\FaktoriyelHesaplaRecursive\FaktoriyelHesaplaRecursive\obj\Debug\FaktoriyelHesaplaRecursive.exe
+C:\Users\pc\source\repos\FaktoriyelHesaplaRecursive\FaktoriyelHesaplaRecursive\obj\Debug\FaktoriyelHesaplaRecursive.pdb

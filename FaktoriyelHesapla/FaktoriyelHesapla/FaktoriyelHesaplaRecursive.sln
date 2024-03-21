@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaktoriyelHesaplaRecursive", "FaktoriyelHesaplaRecursive\FaktoriyelHesaplaRecursive.csproj", "{713DC88C-1B9F-48D0-91E7-FF17DC883A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713DC88C-1B9F-48D0-91E7-FF17DC883A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713DC88C-1B9F-48D0-91E7-FF17DC883A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713DC88C-1B9F-48D0-91E7-FF17DC883A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713DC88C-1B9F-48D0-91E7-FF17DC883A30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72F1A24B-896C-4A4B-A69A-6B9E4176963A}
+	EndGlobalSection
+EndGlobal
