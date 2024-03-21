@@ -1,0 +1,7 @@
+C:\Users\YAHYA\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\YAHYA\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\YAHYA\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\YAHYA\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\YAHYA\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\YAHYA\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\YAHYA\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb
