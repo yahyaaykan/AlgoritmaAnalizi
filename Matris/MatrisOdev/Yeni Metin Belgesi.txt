@@ -1,0 +1,42 @@
+Fonksiyon MatrisCarpimi(A, B)
+    boyut = A.satırSayısı // veya B.sütunSayısı, çünkü ikisi de n x n matrisler
+    C = yeni n x n matris
+    İç İçe Döngü i = 1'den boyuta kadar
+        İç İçe Döngü j = 1'den boyuta kadar
+            C[i][j] = 0 // C matrisinin ilgili elemanını sıfırla
+            İç İçe Döngü k = 1'den boyuta kadar
+                C[i][j] += A[i][k] * B[k][j] // Matris çarpımını hesapla
+            İç İçe Döngü Sonu
+        İç İçe Döngü Sonu
+    İç İçe Döngü Sonu
+    return C
+Fonksiyon Sonu
+
+AnaProgram
+    A = kullanıcıdan alınan n x n matris
+    B = kullanıcıdan alınan n x n matris
+    Sonuc = MatrisCarpimi(A, B)
+    Sonuc'u ekrana yazdır
+AnaProgram Sonu
+
+
+
+
+Algoritmanın Analizi 
+1. Özyinelemeli Algoritma:
+	 Özyinelemeli algoritma, her adımda bir alt problemi çözer ve bu alt problemler 
+birbirine bağlıdır. Bu algoritmanın karmaşıklığı O(n) olarak ifade edilir, burada n, 
+dizinin eleman sayısıdır.
+	 Özyinelemeli algoritma, her bir özyinelemeli çağrı için bir işlem yığını (call stack) 
+kullanır. Bu nedenle hafıza karmaşıklığı, özyinelemeli çağrıların derinliğine bağlıdır ve 
+genellikle O(n) olarak ifade edilir.
+2. İteratif Algoritma:
+	 İteratif algoritma, diziyi bir kez tarar ve en büyük sayıyı bulur. Bu nedenle zaman 
+karmaşıklığı O(n) olarak ifade edilir, burada n, dizinin eleman sayısıdır.
+	 İteratif algoritma, sabit miktarda hafıza kullanır (yalnızca birkaç değişken). Bu nedenle 
+hafıza karmaşıklığı O(1) olarak ifade edilir.
+Özetle:
+ 	Özyinelemeli algoritma daha fazla hafıza kullanır ve işlem yığınına bağımlıdır, ancak 
+kodu daha anlaşılır ve basit hale getirebilir.
+ 	İteratif algoritma daha az hafıza kullanır ve genellikle daha hızlıdır, ancak kod daha 
+karmaşık görünebilir
