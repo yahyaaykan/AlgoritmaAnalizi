@@ -1,0 +1,14 @@
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\bin\Debug\net8.0\VeriYapilariOdev2.exe
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\bin\Debug\net8.0\VeriYapilariOdev2.deps.json
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\bin\Debug\net8.0\VeriYapilariOdev2.runtimeconfig.json
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\bin\Debug\net8.0\VeriYapilariOdev2.dll
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\bin\Debug\net8.0\VeriYapilariOdev2.pdb
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\net8.0\VeriYapilariOdev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\net8.0\VeriYapilariOdev2.AssemblyInfoInputs.cache
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\net8.0\VeriYapilariOdev2.AssemblyInfo.cs
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\net8.0\VeriYapilariOdev2.csproj.CoreCompileInputs.cache
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\net8.0\VeriYapilariOdev2.dll
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\net8.0\refint\VeriYapilariOdev2.dll
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\net8.0\VeriYapilariOdev2.pdb
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\net8.0\VeriYapilariOdev2.genruntimeconfig.cache
+C:\Users\YAHYA\source\repos\VeriYapilariOdev2\VeriYapilariOdev2\obj\Debug\net8.0\ref\VeriYapilariOdev2.dll
