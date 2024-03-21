@@ -1,0 +1,15 @@
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\bin\Debug\net6.0\YAHYA AYKAN ODEV.exe
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\bin\Debug\net6.0\YAHYA AYKAN ODEV.deps.json
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\bin\Debug\net6.0\YAHYA AYKAN ODEV.runtimeconfig.json
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\bin\Debug\net6.0\YAHYA AYKAN ODEV.dll
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\bin\Debug\net6.0\YAHYA AYKAN ODEV.pdb
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\obj\Debug\net6.0\YAHYA AYKAN ODEV.csproj.AssemblyReference.cache
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\obj\Debug\net6.0\YAHYA AYKAN ODEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\obj\Debug\net6.0\YAHYA AYKAN ODEV.AssemblyInfoInputs.cache
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\obj\Debug\net6.0\YAHYA AYKAN ODEV.AssemblyInfo.cs
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\obj\Debug\net6.0\YAHYA AYKAN ODEV.csproj.CoreCompileInputs.cache
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\obj\Debug\net6.0\YAHYA AYKAN ODEV.dll
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\obj\Debug\net6.0\refint\YAHYA AYKAN ODEV.dll
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\obj\Debug\net6.0\YAHYA AYKAN ODEV.pdb
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\obj\Debug\net6.0\YAHYA AYKAN ODEV.genruntimeconfig.cache
+C:\Users\YAHYA\source\repos\YAHYA AYKAN ODEV\YAHYA AYKAN ODEV\obj\Debug\net6.0\ref\YAHYA AYKAN ODEV.dll
