@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\GezginSaticiProblemiRecursive\GezginSaticiProblemiRecursive\obj\Debug\GezginSaticiProblemiRecursive.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\GezginSaticiProblemiRecursive\GezginSaticiProblemiRecursive\obj\Debug\GezginSaticiProblemiRecursive.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\GezginSaticiProblemiRecursive\GezginSaticiProblemiRecursive\bin\Debug\GezginSaticiProblemiRecursive.exe.config
+C:\Users\pc\source\repos\GezginSaticiProblemiRecursive\GezginSaticiProblemiRecursive\bin\Debug\GezginSaticiProblemiRecursive.exe
+C:\Users\pc\source\repos\GezginSaticiProblemiRecursive\GezginSaticiProblemiRecursive\bin\Debug\GezginSaticiProblemiRecursive.pdb
+C:\Users\pc\source\repos\GezginSaticiProblemiRecursive\GezginSaticiProblemiRecursive\obj\Debug\GezginSaticiProblemiRecursive.exe
+C:\Users\pc\source\repos\GezginSaticiProblemiRecursive\GezginSaticiProblemiRecursive\obj\Debug\GezginSaticiProblemiRecursive.pdb

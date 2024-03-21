@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GezginSaticiProblemi", "GezginSaticiProblemi\GezginSaticiProblemi.csproj", "{6DF1604A-ACB3-49AE-9A32-B68E819A0350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF1604A-ACB3-49AE-9A32-B68E819A0350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF1604A-ACB3-49AE-9A32-B68E819A0350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF1604A-ACB3-49AE-9A32-B68E819A0350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF1604A-ACB3-49AE-9A32-B68E819A0350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14EDFA37-9C8D-4301-9008-680C0F853F92}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.exe.config
+C:\Users\pc\source\repos\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.exe
+C:\Users\pc\source\repos\GezginSaticiProblemi\GezginSaticiProblemi\bin\Debug\GezginSaticiProblemi.pdb
+C:\Users\pc\source\repos\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.exe
+C:\Users\pc\source\repos\GezginSaticiProblemi\GezginSaticiProblemi\obj\Debug\GezginSaticiProblemi.pdb

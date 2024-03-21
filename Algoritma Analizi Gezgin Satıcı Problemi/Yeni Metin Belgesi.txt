@@ -1,0 +1,59 @@
+# Pseudo-kod (gezgin satıcı problemi kaba kodu )
+
+# Verilen şehirler arasındaki mesafeleri içeren bir matris (distances) olsun.
+# distances[i][j] = i. şehirden j. şehire olan mesafe
+
+fonksiyon toplam_mesafeyi_hesapla(yol, mesafeler):
+    toplam_mesafe = 0
+    döngü i 0'dan len(yol) - 2'ye:
+        toplam_mesafe += mesafeler[yol[i]][yol[i + 1]]
+    döngü_sonu
+    dön toplam_mesafe
+
+fonksiyon kaba_kuvvet_gezgin_satıcı(mesafeler):
+    sehir_sayisi = len(mesafeler)
+    tum_sehirler = [0, 1, ..., sehir_sayisi - 1]
+    min_mesafe = sonsuz
+    en_iyi_yol = Yok
+
+    her permutasyon için tum_sehirler:
+        mesafe = toplam_mesafeyi_hesapla(permutasyon, mesafeler)
+        eğer mesafe < min_mesafe ise:
+            min_mesafe = mesafe
+            en_iyi_yol = permutasyon
+
+    dön en_iyi_yol, min_mesafe
+
+# Örnek kullanım
+mesafeler = [
+    [0, 10, 15, 20],
+    [10, 0, 35, 25],
+    [15, 35, 0, 30],
+    [20, 25, 30, 0]
+]
+
+en_iyi_yol, min_mesafe = kaba_kuvvet_gezgin_satıcı(mesafeler)
+yaz("En iyi yol:", en_iyi_yol)
+yaz("Minimum mesafe:", min_mesafe)
+
+
+
+
+Algoritmanın Analizi 
+1. Özyinelemeli Algoritma:
+	 Özyinelemeli algoritma, her adımda bir alt problemi çözer ve bu alt problemler 
+birbirine bağlıdır. Bu algoritmanın karmaşıklığı O(n) olarak ifade edilir, burada n, 
+dizinin eleman sayısıdır.
+	 Özyinelemeli algoritma, her bir özyinelemeli çağrı için bir işlem yığını (call stack) 
+kullanır. Bu nedenle hafıza karmaşıklığı, özyinelemeli çağrıların derinliğine bağlıdır ve 
+genellikle O(n) olarak ifade edilir.
+2. İteratif Algoritma:
+	 İteratif algoritma, diziyi bir kez tarar ve en büyük sayıyı bulur. Bu nedenle zaman 
+karmaşıklığı O(n) olarak ifade edilir, burada n, dizinin eleman sayısıdır.
+	 İteratif algoritma, sabit miktarda hafıza kullanır (yalnızca birkaç değişken). Bu nedenle 
+hafıza karmaşıklığı O(1) olarak ifade edilir.
+Özetle:
+ 	Özyinelemeli algoritma daha fazla hafıza kullanır ve işlem yığınına bağımlıdır, ancak 
+kodu daha anlaşılır ve basit hale getirebilir.
+ 	İteratif algoritma daha az hafıza kullanır ve genellikle daha hızlıdır, ancak kod daha 
+karmaşık görünebilir
