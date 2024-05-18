@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\DijkstraAlgoritmasi\DijkstraAlgoritmasi\bin\Debug\DijkstraAlgoritmasi.exe.config
+C:\Users\pc\source\repos\DijkstraAlgoritmasi\DijkstraAlgoritmasi\bin\Debug\DijkstraAlgoritmasi.exe
+C:\Users\pc\source\repos\DijkstraAlgoritmasi\DijkstraAlgoritmasi\bin\Debug\DijkstraAlgoritmasi.pdb
+C:\Users\pc\source\repos\DijkstraAlgoritmasi\DijkstraAlgoritmasi\obj\Debug\DijkstraAlgoritmasi.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\DijkstraAlgoritmasi\DijkstraAlgoritmasi\obj\Debug\DijkstraAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DijkstraAlgoritmasi\DijkstraAlgoritmasi\obj\Debug\DijkstraAlgoritmasi.exe
+C:\Users\pc\source\repos\DijkstraAlgoritmasi\DijkstraAlgoritmasi\obj\Debug\DijkstraAlgoritmasi.pdb
