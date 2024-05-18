@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\PrimAlgoritmasi\PrimAlgoritmasi\bin\Debug\PrimAlgoritmasi.exe.config
+C:\Users\pc\source\repos\PrimAlgoritmasi\PrimAlgoritmasi\bin\Debug\PrimAlgoritmasi.exe
+C:\Users\pc\source\repos\PrimAlgoritmasi\PrimAlgoritmasi\bin\Debug\PrimAlgoritmasi.pdb
+C:\Users\pc\source\repos\PrimAlgoritmasi\PrimAlgoritmasi\obj\Debug\PrimAlgoritmasi.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\PrimAlgoritmasi\PrimAlgoritmasi\obj\Debug\PrimAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\PrimAlgoritmasi\PrimAlgoritmasi\obj\Debug\PrimAlgoritmasi.exe
+C:\Users\pc\source\repos\PrimAlgoritmasi\PrimAlgoritmasi\obj\Debug\PrimAlgoritmasi.pdb
