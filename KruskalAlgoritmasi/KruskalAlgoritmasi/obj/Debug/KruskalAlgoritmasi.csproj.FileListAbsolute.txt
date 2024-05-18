@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\bin\Debug\KruskalAlgoritmasi.exe.config
+C:\Users\pc\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\bin\Debug\KruskalAlgoritmasi.exe
+C:\Users\pc\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\bin\Debug\KruskalAlgoritmasi.pdb
+C:\Users\pc\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.exe
+C:\Users\pc\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.pdb
